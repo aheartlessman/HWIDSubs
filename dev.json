@@ -1,0 +1,34 @@
+{
+  "appnews": {
+    "appid": 252490,
+    "newsitems": [
+      {
+        "gid": "380788575849666406",
+        "title": "Live World Status: <color=red>CRACKED</color>",
+        "url": "https://vk.com/simmoniproject",
+        "is_external_url": true,
+        "author": "Simmoni Developers",
+        "contents": "[img]http://wiki59.lwor.ru/devblog133/s_log_new.jpg[/img] Сервер Rust133: <color=red>CRACKED</color>\nЕСЛИ В СПИСКЕ СЕРВЕРОВ НЕТ СЕРВЕРА, ТО ДЛЯ ЗАХОДА НА СЕРВЕР ОТКРОЙТЕ КОНСОЛЬ F1 И ВВЕДИТЕ:\n<color=#5af>connect 62.122.213.73:13311</color>\n\nServer Rust133: <color=lime>online</color>\nIF THERE IS NO SERVER IN THE LIST OF SERVERS, TO ENTER THE SERVER, OPEN THE F1 CONSOLE AND ENTER:\n<color=#5af>connect 62.122.213.73:13311</color>",
+        "feedlabel": "Community Announcements",
+        "date": 1661526600,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 252490
+      },
+	  {
+        "gid": "380788575849666406",
+        "title": "<color=#5af>Upgrade client</color>",
+        "url": "http://cloud.simmoni.ru/LiveWorldCrack.exe",
+        "is_external_url": true,
+        "author": "Максим",
+        "contents": "[img]http://wiki59.lwor.ru/devblog133/s_log_new.jpg[/img] Обновление будут по ссылке!!",
+        "feedlabel": "Community Announcements",
+        "date": 1646086003,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 252490
+      }
+    ],
+    "count": 841
+  }
+}
